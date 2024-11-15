@@ -1,0 +1,40 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #ff66c4;
+    border-radius: 4px;
+    padding: 0.6rem;
+    margin: 0.9rem;
+}
+
+.nome-produto {
+    font-size: 1.5rem;
+    color: rgba(0, 0, 0, 0.884);}
+
+.desc-produto {
+    font-size: 1rem;
+    color: rgba(0, 0, 0, 0.884);}
+
+.preco-produto {
+    font-size: 1.2rem;
+    color: white; 
+    font-weight: bold;
+}
+
+.img-produto {
+    height: 300px;
+}
+
+.cards {
+    display: flex;
+    margin: auto 5rem;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+@media (max-width: 600px) {
+    .cards {
+        margin: 0;
+    }
+}
