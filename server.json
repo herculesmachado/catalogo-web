@@ -1,0 +1,177 @@
+{
+    "batom e gloss": [
+        {
+            "src": "./images/batom.png",
+            "nome": "Batom",
+            "valor": 14
+        },
+        {
+            "src": "./images/batom (2).png",
+            "nome": "Batom",
+            "valor": 14
+        },
+        {
+            "src": "./images/batom (3).png",
+            "nome": "Batom",
+            "valor": 14
+        },
+        {
+            "src": "./images/batom (4).png",
+            "nome": "Batom",
+            "valor": 14
+        },
+        {
+            "src": "./images/batom (5).png",
+            "nome": "Batom",
+            "valor": 14
+        },
+        {
+            "src": "./images/batom (6).png",
+            "nome": "Batom",
+            "valor": 14
+        },
+        {
+            "src": "./images/gloss.png",
+            "nome": "Batom",
+            "valor": 14
+        }
+
+    ],
+
+    "iluminador": [
+        {
+            "src": "./images/iluminador.png",
+            "nome": "Iluminador",
+            "valor": 14
+        }
+    ],
+
+    "bases": [
+        {
+            "src": "./images/base + protetor.png",
+            "nome": "base + protetor",
+            "valor": 14
+        },
+        {
+            "src": "./images/base.png",
+            "nome": "Base",
+            "valor": 14
+        }
+    ],
+
+    "gel facial": [
+        {
+            "src": "./images/Gel Facil.png",
+            "nome": "Gel Facil",
+            "valor": 14
+        },
+        {
+            "src": "./images/Gel Facil (2).png",
+            "nome": "Gel Facil",
+            "valor": 14
+        },
+        {
+            "src": "./images/Gel Facial (3).png",
+            "nome": "Gel Facil",
+            "valor": 14
+        },
+        {
+            "src": "./images/Gel Facil (4).png",
+            "nome": "Gel Facil",
+            "valor": 14
+        }
+    ],
+
+    "blush": [
+        {
+            "src": "./images/Blush.png",
+            "nome": "Blush",
+            "valor": 14
+        }
+    ], 
+
+    "necessaire": [
+        {
+            "src": "./images/Necessaire.png",
+            "nome": "Necessaire",
+            "valor": 14
+        },
+        {
+            "src": "./images/Necessaire (2).png",
+            "nome": "Necessaire",
+            "valor": 14
+        }
+    ],
+
+    "sérum": [
+        {
+            "src": "./images/sérum.png",
+            "nome": "sérum",
+            "valor": 14
+        },
+        {
+            "src": "./images/Sérum (2).png",
+            "nome": "sérum",
+            "valor": 14
+        },
+        {
+            "src": "./images/Sérum (3).png",
+            "nome": "sérum",
+            "valor": 14
+        }
+    ],
+
+    "lápis de olho e contorno para boca": [
+        {
+            "src": "./images/Lápis de olho.png",
+            "nome": "Lápis de olho",
+            "valor": 14
+        },
+        {
+            "src": "./images/Lápis de olho (2).png",
+            "nome": "Lápis de olho",
+            "valor": 14
+        },
+        {
+            "src": "./images/Lápis contorno de boca.png",
+            "nome": "Lápis contorno de boca",
+            "valor": 14
+        }
+    ],
+
+    "body splash": [
+        {
+            "src": "./images/Body Splash.png",
+            "nome": "Body Splash",
+            "valor": 14
+        }
+    ],
+
+    "Acessórios em geral": [
+        {
+            "src": "./images/Porta Joias.png",
+            "nome": "Porta joias",
+            "valor": 14
+        },
+        {
+            "src": "./images/Kit para viagem.png",
+            "nome": "Kit para viagem",
+            "valor": 14
+        },
+        {
+            "src": "./images/Esponja.png",
+            "nome": "Esponja manga",
+            "valor": 14
+        },
+        {
+            "src": "./images/Escova Massageadora Capilar.png",
+            "nome": "Escova Massageadora Capilar",
+            "valor": 14
+        },
+        {
+            "src": "./images/Body Splash.png",
+            "nome": "Body Splash",
+            "valor": 14
+        }
+    ]
+}
