@@ -2,122 +2,119 @@
     "batom e gloss": [
         {
             "src": "./images/batom.png",
-            "nome": "Batom",
-            "valor": 14
+            "nome": "Batom suellen",
+            "valor": 30
         },
         {
             "src": "./images/batom (2).png",
-            "nome": "Batom",
-            "valor": 14
+            "nome": "Batom Eudora",
+            "valor": 34
         },
         {
             "src": "./images/batom (3).png",
-            "nome": "Batom",
-            "valor": 14
+            "nome": "Batom Matte Ruby Kisses",
+            "valor": 30
         },
         {
             "src": "./images/batom (4).png",
-            "nome": "Batom",
-            "valor": 14
+            "nome": "Batom Ginger",
+            "valor": 32
         },
         {
             "src": "./images/batom (5).png",
-            "nome": "Batom",
-            "valor": 14
+            "nome": "Batom MariMaria",
+            "valor": 34
         },
         {
             "src": "./images/batom (6).png",
-            "nome": "Batom",
-            "valor": 14
+            "nome": "Batom GlassMarimaria",
+            "valor": 34
         },
         {
             "src": "./images/gloss.png",
-            "nome": "Batom",
-            "valor": 14
+            "nome": "Gloss Call me again",
+            "valor": 18
         }
 
     ],
 
-    "iluminador": [
+    "iluminador e blush": [
         {
             "src": "./images/iluminador.png",
-            "nome": "Iluminador",
-            "valor": 14
+            "nome": "Iluminador vult",
+            "valor": 30
+        },
+        {
+            "src": "./images/Blush.png",
+            "nome": "Blush Vult",
+            "valor": 30
         }
     ],
 
     "bases": [
         {
             "src": "./images/base + protetor.png",
-            "nome": "base + protetor",
-            "valor": 14
+            "nome": "base Hidrabene com protetor",
+            "valor": 75
         },
         {
             "src": "./images/base.png",
-            "nome": "Base",
-            "valor": 14
+            "nome": "Base Catharine Hill",
+            "valor": 55
         }
     ],
 
     "gel facial": [
         {
             "src": "./images/Gel Facil.png",
-            "nome": "Gel Facil",
-            "valor": 14
+            "nome": "Gel de Limpeza Antioleosidade",
+            "valor": 20
         },
         {
             "src": "./images/Gel Facil (2).png",
-            "nome": "Gel Facil",
-            "valor": 14
+            "nome": "Gel de Limpeza Antioxidante",
+            "valor": 25
         },
         {
             "src": "./images/Gel Facial (3).png",
-            "nome": "Gel Facil",
-            "valor": 14
+            "nome": "Hidratante Facial vult",
+            "valor": 27
         },
         {
             "src": "./images/Gel Facil (4).png",
-            "nome": "Gel Facil",
-            "valor": 14
+            "nome": "Gel Esfoliante",
+            "valor": 30
         }
     ],
-
-    "blush": [
-        {
-            "src": "./images/Blush.png",
-            "nome": "Blush",
-            "valor": 14
-        }
-    ], 
-
+    
     "necessaire": [
         {
             "src": "./images/Necessaire.png",
-            "nome": "Necessaire",
-            "valor": 14
+            "nome": "Necessarie preta Make One",
+            "valor": 40
         },
         {
             "src": "./images/Necessaire (2).png",
-            "nome": "Necessaire",
-            "valor": 14
+            "nome": "Necessarie",
+            "valor": 30
         }
     ],
 
     "sérum": [
         {
             "src": "./images/sérum.png",
-            "nome": "sérum",
-            "valor": 14
+            "nome": "sérum Max Love",
+            "valor": 15
         },
         {
             "src": "./images/Sérum (2).png",
-            "nome": "sérum",
-            "valor": 14
+            "nome": "sérum  phallebeauty",
+            "valor": 15
         },
         {
             "src": "./images/Sérum (3).png",
-            "nome": "sérum",
-            "valor": 14
+            "nome": "sérum Antioxidante C10",
+            "valor": 65
         }
     ],
 
@@ -125,17 +122,12 @@
         {
             "src": "./images/Lápis de olho.png",
             "nome": "Lápis de olho",
-            "valor": 14
-        },
-        {
-            "src": "./images/Lápis de olho (2).png",
-            "nome": "Lápis de olho",
-            "valor": 14
+            "valor": 5
         },
         {
             "src": "./images/Lápis contorno de boca.png",
             "nome": "Lápis contorno de boca",
-            "valor": 14
+            "valor": 25
         }
     ],
 
@@ -143,35 +135,30 @@
         {
             "src": "./images/Body Splash.png",
             "nome": "Body Splash",
-            "valor": 14
+            "valor": 40
         }
     ],
 
-    "Acessórios em geral": [
+    "Variedades": [
         {
             "src": "./images/Porta Joias.png",
-            "nome": "Porta joias",
-            "valor": 14
+            "nome": "Porta-joias",
+            "valor": 25
         },
         {
             "src": "./images/Kit para viagem.png",
             "nome": "Kit para viagem",
-            "valor": 14
+            "valor": 40
         },
         {
             "src": "./images/Esponja.png",
             "nome": "Esponja manga",
-            "valor": 14
+            "valor": 8
         },
         {
             "src": "./images/Escova Massageadora Capilar.png",
             "nome": "Escova Massageadora Capilar",
-            "valor": 14
-        },
-        {
-            "src": "./images/Body Splash.png",
-            "nome": "Body Splash",
-            "valor": 14
+            "valor": 10
         }
     ]
 }
