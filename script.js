@@ -40,7 +40,7 @@ function apiCard() {
                 nome.classList.add('nome-prod');
     
                 const valor = document.createElement('p');
-                valor.textContent = `R$${item.valor}`;
+                valor.textContent = `R$${item.valor},00`;
                 valor.classList.add('valor-prod');
     
     

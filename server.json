@@ -31,9 +31,44 @@
             "valor": 34
         },
         {
+            "src": "./images/batom (7).png",
+            "nome": "Batom líquido glass",
+            "valor": 28
+        },
+        {
+            "src": "./images/batom (8).png",
+            "nome": "Batom hidra lips cremoso",
+            "valor": 23
+        },
+        {
+            "src": "./images/batom (9).png",
+            "nome": "Batom RK",
+            "valor": 24
+        },
+        {
+            "src": "./images/balm.png",
+            "nome": "Balm labial",
+            "valor": 20
+        },
+        {
             "src": "./images/gloss.png",
             "nome": "Gloss Call me again",
             "valor": 18
+        },
+        {
+            "src": "./images/gloss (1).png",
+            "nome": "Gloss febella",
+            "valor": 18
+        },
+        {
+            "src": "./images/gloss (2).png",
+            "nome": "Gloss Sarah beauty",
+            "valor": 18
+        },
+        {
+            "src": "./images/gloss (3).png",
+            "nome": "Lip gloss",
+            "valor": 32
         }
 
     ],
@@ -51,7 +86,7 @@
         }
     ],
 
-    "bases": [
+    "bases e pó": [
         {
             "src": "./images/base + protetor.png",
             "nome": "base Hidrabene com protetor",
@@ -61,6 +96,16 @@
             "src": "./images/base.png",
             "nome": "Base Catharine Hill",
             "valor": 55
+        },
+        {
+            "src": "./images/base (1).png",
+            "nome": "Base mega",
+            "valor": 28
+        },
+        {
+            "src": "./images/po.png",
+            "nome": "Pó vult",
+            "valor": 28
         }
     ],
 
@@ -100,7 +145,7 @@
         }
     ],
 
-    "sérum": [
+    "sérum e hidratantes": [
         {
             "src": "./images/sérum.png",
             "nome": "sérum Max Love",
@@ -115,6 +160,11 @@
             "src": "./images/Sérum (3).png",
             "nome": "sérum Antioxidante C10",
             "valor": 65
+        },
+        {
+            "src": "./images/hidratante corporal.png",
+            "nome": "hidratante corporal ",
+            "valor": 35
         }
     ],
 
@@ -134,7 +184,7 @@
     "body splash": [
         {
             "src": "./images/Body Splash.png",
-            "nome": "Body Splash",
+            "nome": "perfume Body Splash",
             "valor": 40
         }
     ],
