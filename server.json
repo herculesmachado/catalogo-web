@@ -109,6 +109,14 @@
         }
     ],
 
+    "Máscara de cílios":  [
+        {
+            "src": "./images/mascara-cilios.png",
+            "nome": "Mácara de cílios",
+            "valor": 20 
+        }
+    ],
+
     "gel facial": [
         {
             "src": "./images/Gel Facil.png",
