@@ -48,10 +48,17 @@ function apiCard() {
                 const valor = document.createElement('p');
                 valor.textContent = `R$${item.valor},00`;
                 valor.classList.add('valor-prod');
+
+
+                // cria a tag p para descrição
+                const desc = document.createElement('p')
+                desc.textContent = item.descricao;
+                desc.classList.add('desc-prod');
     
                 // Adiciona cada div em sus respectivas posições dentro do card
                 div.appendChild(img);
                 div.appendChild(nome);
+                div.appendChild(desc);
                 div.appendChild(valor);
 
                 // card final
@@ -68,3 +75,4 @@ function apiCard() {
 }
 
 apiCard()
+
