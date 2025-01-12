@@ -69,6 +69,11 @@
             "src": "./images/gloss (3).png",
             "nome": "Lip gloss",
             "valor": 32
+        },
+        {
+            "src": "./images/gloss (4).png",
+            "nome": "Lip gloss pink 21",
+            "valor": 17
         }
 
     ],
@@ -103,6 +108,11 @@
             "valor": 28
         },
         {
+            "src": "./images/base (2).png",
+            "nome": "Base suellen",
+            "valor": 65
+        },
+        {
             "src": "./images/po.png",
             "nome": "Pó vult",
             "valor": 28
@@ -111,6 +121,11 @@
             "src": "./images/po (1).png",
             "nome": "Pó hidrabene",
             "valor": 60
+        },
+        {
+            "src": "./images/po (2).png",
+            "nome": "Pó Blossom",
+            "valor": 82
         }
     ],
 
@@ -198,6 +213,11 @@
         {
             "src": "./images/Body Splash.png",
             "nome": "perfume Body Splash",
+            "valor": 40
+        },
+        {
+            "src": "./images/perfume.png",
+            "nome": "perfume Body Splash eudora",
             "valor": 40
         }
     ],
