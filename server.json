@@ -46,6 +46,11 @@
             "valor": 24
         },
         {
+            "src": "./images/batom (10).png",
+            "nome": "Batom Nina Secrets",
+            "valor": 40
+        },
+        {
             "src": "./images/balm.png",
             "nome": "Balm labial",
             "valor": 20
@@ -74,6 +79,16 @@
             "src": "./images/gloss (4).png",
             "nome": "Lip gloss pink 21",
             "valor": 17
+        },
+        {
+            "src": "./images/gloss (5).png",
+            "nome": "Gloss Silk Skin Ruby Rose",
+            "valor": 12
+        },
+        {
+            "src": "./images/gloss (6).png",
+            "nome": "Gloss Sarah",
+            "valor": 12
         }
 
     ],
@@ -87,6 +102,11 @@
         {
             "src": "./images/Blush.png",
             "nome": "Blush Vult",
+            "valor": 30
+        },
+        {
+            "src": "./images/Blush (1).png",
+            "nome": "Blush Vizella",
             "valor": 30
         }
     ],
@@ -229,6 +249,11 @@
             "valor": 25
         },
         {
+            "src": "./images/Porta perfume.png",
+            "nome": "Porta Perfume",
+            "valor": 7
+        },
+        {
             "src": "./images/Kit para viagem.png",
             "nome": "Kit para viagem",
             "descricao": [
@@ -249,5 +274,6 @@
             "nome": "Escova Massageadora Capilar",
             "valor": 10
         }
+
     ]
 }
