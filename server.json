@@ -36,6 +36,11 @@
             "valor": 28
         },
         {
+            "src": "./images/Hidratante Labial",
+            "nome": "Hidratante Labial Hidrabene",
+            "valor": 18
+        },
+        {
             "src": "./images/batom (8).png",
             "nome": "Batom hidra lips cremoso",
             "valor": 23
@@ -86,6 +91,11 @@
             "valor": 12
         },
         {
+            "src": "./images/batom hidratante payot",
+            "nome": "batom hidratante payot",
+            "valor": 38
+        },
+        {
             "src": "./images/gloss (6).png",
             "nome": "Gloss Sarah",
             "valor": 12
@@ -102,6 +112,11 @@
         {
             "src": "./images/Blush.png",
             "nome": "Blush Vult",
+            "valor": 30
+        },
+        {
+            "src": "./images/blush fand",
+            "nome": "blush fand",
             "valor": 30
         },
         {
@@ -174,6 +189,11 @@
             "valor": 27
         },
         {
+            "src": "./images/esfoliante corpo & rosto",
+            "nome": "esfoliante corpo & rosto 300g",
+            "valor": 30
+        },
+        {
             "src": "./images/Gel Facil (4).png",
             "nome": "Gel Esfoliante",
             "valor": 30
@@ -216,11 +236,21 @@
         }
     ],
 
-    "lápis de olho e contorno para boca": [
+    "lápis e contornos": [
         {
             "src": "./images/Lápis de olho.png",
             "nome": "Lápis de olho",
             "valor": 5
+        },
+        {
+            "src": "./images/contorno facial payot",
+            "nome": "contorno facial payot",
+            "valor": 35
+        },
+        {
+            "src": "./images/contorno labial payot",
+            "nome": "contorno labial payot",
+            "valor": 30
         },
         {
             "src": "./images/Lápis contorno de boca.png",
@@ -263,6 +293,17 @@
                 " 1 Saboneteira"
             ],
             "valor": 40
+        },
+        {
+            "src": "./images/estojo organizador para viagens",
+            "nome": "estojo organizador para viagens",
+            "descricao": [
+                "1 necessaire transparente",  
+                " 1 frasco de spray 80ml",
+                " 1 frasco de válvula pump 80ml",
+                " 2 frascos com tampa disk top 60ml"
+            ],
+            "valor": 22
         },
         {
             "src": "./images/Esponja.png",
