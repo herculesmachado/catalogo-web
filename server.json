@@ -36,7 +36,7 @@
             "valor": 28
         },
         {
-            "src": "./images/Hidratante Labial",
+            "src": "./images/Hidratante Labial.png",
             "nome": "Hidratante Labial Hidrabene",
             "valor": 18
         },
@@ -91,7 +91,7 @@
             "valor": 12
         },
         {
-            "src": "./images/batom hidratante payot",
+            "src": "/images/batom hidratante payot.png",
             "nome": "batom hidratante payot",
             "valor": 38
         },
@@ -115,7 +115,7 @@
             "valor": 30
         },
         {
-            "src": "./images/blush fand",
+            "src": "./images/blush fand.png",
             "nome": "blush fand",
             "valor": 30
         },
@@ -189,7 +189,7 @@
             "valor": 27
         },
         {
-            "src": "./images/esfoliante corpo & rosto",
+            "src": "./images/esfoliante corpo & rosto.png",
             "nome": "esfoliante corpo & rosto 300g",
             "valor": 30
         },
@@ -243,12 +243,12 @@
             "valor": 5
         },
         {
-            "src": "./images/contorno facial payot",
+            "src": "./images/contorno facial payot.png",
             "nome": "contorno facial payot",
             "valor": 35
         },
         {
-            "src": "./images/contorno labial payot",
+            "src": "./images/contorno labial payot.png",
             "nome": "contorno labial payot",
             "valor": 30
         },
@@ -295,7 +295,7 @@
             "valor": 40
         },
         {
-            "src": "./images/estojo organizador para viagens",
+            "src": "./images/estojo organizador para viagens.png",
             "nome": "estojo organizador para viagens",
             "descricao": [
                 "1 necessaire transparente",  
