@@ -229,10 +229,11 @@
             "nome": "sérum  phallebeauty",
             "valor": 15
         },
+        
         {
-            "src": "./images/Sérum (3).png",
-            "nome": "sérum Antioxidante C10",
-            "valor": 65
+            "src": "./images/serumcabelo.png",
+            "nome": "sérum para cabelos Oil",
+            "valor": 10
         },
         {
             "src": "./images/hidratante corporal.png",
