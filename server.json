@@ -172,8 +172,13 @@
     "Máscara de cílios":  [
         {
             "src": "./images/mascara-cilios.png",
-            "nome": "Mácara de cílios",
+            "nome": "Máscara de cílios",
             "valor": 20 
+        },
+        {
+            "src": "./images/rimelcaracol.jpg",
+            "nome": "Rímel Caracol",
+            "valor": 22
         }
     ],
 
@@ -199,6 +204,11 @@
             "valor": 30
         },
         {
+            "src": "./images/bumbumdemilhoes.jpg",
+            "nome": "Óleo termogênico",
+            "valor": 28
+        },
+        {
             "src": "./images/Gel Facil (4).png",
             "nome": "Gel Esfoliante",
             "valor": 30
@@ -212,10 +222,21 @@
             "valor": 40
         },
         {
+            "src": "./images/necessarierosa.jpg",
+            "nome": "Necessarie viagem Rosê",
+            "valor": 35
+        },
+        {
+            "src": "./images/necessariegrafite.jpg",
+            "nome": "Necessarie viagem Grafite",
+            "valor": 35
+        },
+        {
             "src": "./images/Necessaire (2).png",
             "nome": "Necessarie",
             "valor": 30
         }
+
     ],
 
     "sérum e hidratantes": [
@@ -272,6 +293,16 @@
             "valor": 40
         },
         {
+            "src": "./images/kiss.jpg",
+            "nome": "Kit body Splash Kiss 100 ml",
+            "valor": 75
+        },
+        {
+            "src": "./images/kitkiss.jpg",
+            "nome": "Kit body Splash Kiss 30 ml",
+            "valor": 80
+        },
+        {
             "src": "./images/perfume.png",
             "nome": "perfume Body Splash eudora",
             "valor": 40
@@ -283,6 +314,11 @@
             "src": "./images/Porta Joias.png",
             "nome": "Porta-joias",
             "valor": 25
+        },
+        {
+            "src": "./images/medioportajoia.jpg",
+            "nome": "Médio Porta-joias",
+            "valor": 30
         },
         {
             "src": "./images/Porta perfume.png",
