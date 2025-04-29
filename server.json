@@ -176,7 +176,7 @@
             "valor": 20 
         },
         {
-            "src": "./images/mascaracaracol.jpg",
+            "src": "./images/mascaracaracol.png",
             "nome": "Rímel Caracol",
             "valor": 22
         }
@@ -222,12 +222,12 @@
             "valor": 40
         },
         {
-            "src": "./images/necessarierosa.jpg",
+            "src": "./images/necessarierosa.png",
             "nome": "Necessarie viagem Rosê",
             "valor": 35
         },
         {
-            "src": "./images/necessariegrafite.jpg",
+            "src": "./images/necessariegrafite.png",
             "nome": "Necessarie viagem Grafite",
             "valor": 35
         },
@@ -293,12 +293,12 @@
             "valor": 40
         },
         {
-            "src": "./images/kiss.jpg",
+            "src": "./images/kiss.png",
             "nome": "Kit body Splash Kiss 100 ml",
             "valor": 75
         },
         {
-            "src": "./images/kitkiss.jpg",
+            "src": "./images/kitkiss.png",
             "nome": "Kit body Splash Kiss 30 ml",
             "valor": 80
         },
@@ -316,7 +316,7 @@
             "valor": 25
         },
         {
-            "src": "./images/medioportajoia.jpg",
+            "src": "./images/medioportajoia.png",
             "nome": "Médio Porta-joias",
             "valor": 30
         },
