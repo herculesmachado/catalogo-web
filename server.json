@@ -176,7 +176,7 @@
             "valor": 20 
         },
         {
-            "src": "./images/mascaracaracol.png",
+            "src": "./images/rimelcaracol.png",
             "nome": "Rímel Caracol",
             "valor": 22
         }
@@ -204,7 +204,7 @@
             "valor": 30
         },
         {
-            "src": "./images/bumbumdemilhoes.jpg",
+            "src": "./images/bumbumdemilhoes.png",
             "nome": "Óleo termogênico",
             "valor": 28
         },
@@ -222,7 +222,7 @@
             "valor": 40
         },
         {
-            "src": "./images/necessarierosa.png",
+            "src": "./images/necessarierose.png",
             "nome": "Necessarie viagem Rosê",
             "valor": 35
         },
