@@ -170,7 +170,7 @@
         {
             "src": "./images/po (2).png",
             "nome": "Pó Blossom",
-            "valor": 82
+            "valor": 85
         }
     ],
 
@@ -217,11 +217,6 @@
             "src": "./images/bumbumdemilhoes.png",
             "nome": "Óleo termogênico",
             "valor": 28
-        },
-        {
-            "src": "./images/cremefirmador.png",
-            "nome": "Creme Firmador",
-            "valor": 30
         },
         {
             "src": "./images/Gel Facil (4).png",
@@ -275,6 +270,11 @@
             "src": "./images/hidratante corporal.png",
             "nome": "hidratante corporal ",
             "valor": 35
+        },
+        {
+            "src": "./images/bumbumdemilhoes.png",
+            "nome": "Óleo termogênico",
+            "valor": 28
         }
     ],
 
