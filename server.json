@@ -262,6 +262,11 @@
         },
         
         {
+            "src": "./images/cremefirmador.png",
+            "nome": "creme firmador",
+            "valor": 30
+        },
+        {
             "src": "./images/serumcabelo.png",
             "nome": "sérum para cabelos Oil",
             "valor": 10
