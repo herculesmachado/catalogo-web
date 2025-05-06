@@ -138,6 +138,11 @@
             "valor": 82
         },
         {
+            "src": "./images/protetoreudora.png",
+            "nome": "Protetor Facial sem cor",
+            "valor": 80
+        },
+        {
             "src": "./images/base.png",
             "nome": "Base Catharine Hill",
             "valor": 55
@@ -176,6 +181,11 @@
             "valor": 20 
         },
         {
+            "src": "./images/mascaraeudora.png",
+            "nome": "Máscara de cílios",
+            "valor": 45
+        },
+        {
             "src": "./images/caracol.png",
             "nome": "Rímel Caracol",
             "valor": 22
@@ -207,6 +217,11 @@
             "src": "./images/bumbumdemilhoes.png",
             "nome": "Óleo termogênico",
             "valor": 28
+        },
+        {
+            "src": "./images/cremefirmador.png",
+            "nome": "Creme Firmador",
+            "valor": 30
         },
         {
             "src": "./images/Gel Facil (4).png",
