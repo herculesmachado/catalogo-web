@@ -100,6 +100,16 @@
             "nome": "hidratante labial vult",
             "valor": 20
         },
+         {
+            "src": "./Pele de seda Batom.jpg",
+            "nome": "Batom Silk Skin",
+            "valor": 20
+        },
+        {
+            "src": "./images/Gloss Suellen.jpg.jpg",
+            "nome": "Gloss Suellen",
+            "valor": 38
+        },
         {
             "src": "./images/gloss (6).png",
             "nome": "Gloss Sarah",
