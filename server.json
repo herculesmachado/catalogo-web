@@ -111,12 +111,12 @@
             "valor": 38
         },
         {
-            "src": "./images/lipgoss.jpg",
+            "src": "./images/lipgloss.png",
             "nome": "Lip Gloss Catharine",
             "valor": 30
         },
         {
-            "src": "./images/niina.jpg",
+            "src": "./images/niinasecrets.png",
             "nome": "Batom Niina Secrets 2 em 1",
             "valor": 55
         },
@@ -247,7 +247,7 @@
 
     "Paleta de sombras": [
         {
-            "src": "./images/paleta.jpg",
+            "src": "./images/paleta.png",
             "nome": "Paleta de sombra Dis Order",
             "valor": 32
         } 
@@ -255,7 +255,7 @@
     ],
     "Pincéis": [
         {
-            "src": "./images/pincel.jpg",
+            "src": "./images/pincel.png",
             "nome": "Pincel Sabrina Sato p/blush",
             "valor": 15
         } 
@@ -300,7 +300,7 @@
             "valor": 15
         },
         {
-            "src": "./images/argan.jpg",
+            "src": "./images/oleoargan.png",
             "nome": "Óleo de argan",
             "valor": 8
         },
@@ -379,7 +379,12 @@
             "valor": 25
         },
         {
-            "src": "./images/Medioporta joia.jpg",
+            "src": "./images/secante.png",
+            "nome": "Gotas secantes para unhas",
+            "valor": 14
+        },
+        {
+            "src": "./images/medioportajoia.png",
             "nome": "Médio Porta-joias",
             "valor": 30
         },
@@ -416,7 +421,7 @@
             "valor": 8
         },
         {
-            "src": "./images/lenço(1).jpg",
+            "src": "./images/lenço.png",
             "nome": "Lenço limpeza facial",
             "valor": 15
         },
