@@ -101,6 +101,16 @@
             "valor": 20
         },
         {
+            "src": "./images/lipgoss.jpg",
+            "nome": "Lip Gloss Catharine",
+            "valor": 30
+        },
+        {
+            "src": "./images/niina.jpg",
+            "nome": "Batom Niina Secrets 2 em 1",
+            "valor": 55
+        },
+        {
             "src": "./images/gloss (6).png",
             "nome": "Gloss Sarah",
             "valor": 12
@@ -224,7 +234,26 @@
             "valor": 30
         }
     ],
-    
+
+    "Paleta de sombras": [
+        {
+            "src": "./images/paleta.jpg",
+            "nome": "Paleta de sombra Dis Order",
+            "valor": 32
+        } 
+
+    ],
+    "Pincéis": [
+        {
+            "src": "./images/pincel.jpg",
+            "nome": "Pincel Sabrina Sato p/blush",
+            "valor": 15
+        } 
+
+    ],
+
+
+
     "necessaire": [
         {
             "src": "./images/Necessaire.png",
@@ -259,6 +288,11 @@
             "src": "./images/Sérum (2).png",
             "nome": "sérum  phallebeauty",
             "valor": 15
+        },
+        {
+            "src": "./images/argan.jpg",
+            "nome": "Óleo de argan",
+            "valor": 8
         },
         {
             "src": "./images/cremefirmador.png",
@@ -335,7 +369,7 @@
             "valor": 25
         },
         {
-            "src": "./images/medioportajoia.png",
+            "src": "./images/Medioporta joia.jpg",
             "nome": "Médio Porta-joias",
             "valor": 30
         },
@@ -370,6 +404,11 @@
             "src": "./images/Esponja.png",
             "nome": "Esponja manga",
             "valor": 8
+        },
+        {
+            "src": "./images/lenço(1).jpg",
+            "nome": "Lenço limpeza facial",
+            "valor": 15
         },
         {
             "src": "./images/Escova Massageadora Capilar.png",
