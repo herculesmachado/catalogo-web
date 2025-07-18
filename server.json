@@ -100,6 +100,16 @@
             "nome": "hidratante labial vult",
             "valor": 20
         },
+         {
+            "src": "./images/Batom Silk Skin.jpg",
+            "nome": "Batom Silk Skin",
+            "valor": 20
+        },
+        {
+            "src": "./images/Gloss Suellen.jpg",
+            "nome": "Gloss Suellen",
+            "valor": 38
+        },
         {
             "src": "./images/lipgoss.jpg",
             "nome": "Lip Gloss Catharine",
@@ -113,7 +123,7 @@
         {
             "src": "./images/gloss (6).png",
             "nome": "Gloss Sarah",
-            "valor": 12
+            "valor": 18
         }
 
     ],
